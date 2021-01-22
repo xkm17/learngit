@@ -1,4 +1,5 @@
 t is a version control system.
 Git is free software.
-and Git is xkm.
+and Git is from xkm.
+
 
